@@ -20,3 +20,4 @@ def printer
     puts "Hello, my name is #{name}."
     puts "Hello, #{name}, You'll be assigned to room #{rooms}."
     rooms +=1
+  end
