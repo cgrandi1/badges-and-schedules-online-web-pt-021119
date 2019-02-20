@@ -21,3 +21,4 @@ def printer
     puts "Hello, #{name}, You'll be assigned to room #{rooms}."
     rooms +=1
   end
+end
